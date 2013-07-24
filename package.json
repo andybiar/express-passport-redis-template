@@ -1,0 +1,17 @@
+{
+  "name": "express-passport-redis-template",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.3.4",
+    "ejs": "*",
+    "stylus": "*",
+    "passport": "~0.1.17",
+    "passport-facebook": "~0.1.5",
+    "connect-redis": "~1.4.5",
+    "redis": "~0.8.4"
+  }
+}
